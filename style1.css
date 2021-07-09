@@ -1,0 +1,37 @@
+body{
+  background-image: url(img/11.PNG);
+  background-repeat: no-repeat;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 20px;
+}
+.Tesla_gari{
+  text-align: center;
+  color: brown;
+}
+#head-teasla{
+  font-size: 40px;
+}
+ul{
+  text-align: center;
+}
+ul li{
+  display: inline-block;
+}
+}
+.product h4 {
+  color: gray;
+  text-align: left;
+}
+.product{
+  display: flex;
+ display: inline-block;
+}
+
+.product h2 {
+  color: red;
+  text-align: left;
+}
+
+.product ul li:hover {
+  border: solid 4px orangered;
+}
